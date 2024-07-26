@@ -1,0 +1,73 @@
+body {
+    color: #000;
+  }
+  
+  .product-card {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 15px;
+    margin: 15px 0;
+    background-color: #fff;
+  }
+  
+  .product-card h5 {
+    color: #000;
+  }
+  
+  .nav-link .social-icon, .footer .social-icon {
+    font-size: 24px;
+    transition: transform 0.2s;
+    color: #0c0c0b;
+  }
+  
+  .nav-link .social-icon:hover, .footer .social-icon:hover {
+    transform: scale(1.1);
+  }
+  
+  .social-links {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+  }
+  
+  body {
+    color: #000; /* Texte noir */
+    margin-top: 56px; /* Espacement pour compenser la hauteur de la barre de navigation fixe */
+  }
+  
+  .navbar {
+    background-color: #f7d600; /* Jaune pour la barre de navigation */
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000; /* Assurez-vous que la barre de navigation est au-dessus du contenu */
+  }
+  
+  .nav-link .social-icon, .footer .social-icon {
+    font-size: 24px;
+    transition: transform 0.2s;
+  }
+  
+  .nav-link .social-icon:hover, .footer .social-icon:hover {
+    transform: scale(1.1);
+  }
+  
+  .product-card {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 15px;
+    margin: 15px 0;
+    background-color: #d1ff03;
+  }
+  
+  .product-card h5 {
+    color: #000;
+  }
+  
+  .social-links {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+  }
+  
